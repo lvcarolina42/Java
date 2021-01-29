@@ -44,15 +44,5 @@ public class Operadores {
         //Negação
         System.out.println("Negacao de d = " + !d);
 
-
-
-
-
-
-
-
-
-
-
     }
 }
